@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    color: black;
+}
+h1{
+  
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 40px;
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-size: bold;
+    border-radius: 50px;
+    box-shadow: 0 4px 5px rgba(110, 142, 251,0.4);
+    transition: all 0.3s ease;  
+}
+h2{
+ 
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 40px;
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-size: bold;
+    border-radius: 50px;
+    box-shadow: 0 4px 5px rgba(110, 142, 251,0.4);
+    transition: all 0.3s ease;     
+}
+h3{
+ 
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 40px;
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-size: bold;
+    border-radius: 50px;
+    box-shadow: 0 4px 5px rgba(110, 142, 251,0.4);
+    transition: all 0.3s ease;        
+}
+button{
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 40px;
+    background: linear-gradient(135deg, #a777e3, #6e8efb);
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-size: bold;
+    border-radius: 50px;
+    box-shadow: 0 4px 5px rgba(110, 142, 251,0.4);
+    transition: all 0.3s ease;
+}
